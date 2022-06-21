@@ -1,0 +1,1 @@
+A simple notepad using tkinter lib
